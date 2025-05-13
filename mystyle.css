@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    margin: 20px;
+}
